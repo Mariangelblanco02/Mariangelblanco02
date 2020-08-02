@@ -1,16 +1,38 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+     body{background-color:rgb(240, 144, 26);}
+    h2{background-color:rgb(212, 121, 212);}
+    #conejitos{color:green;}
+    .alemania{color:blue;}
 
-<!--
-**Mariangelblanco02/Mariangelblanco02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    </style>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-at-dusk.png">
+        <h2 id="conejitos"> Alemania</h2>
+        <p class="alemania"> es un país de Europa occidental con un paisaje de bosques, ríos, cadenas montañosas y playas en el mar del Norte.</p> 
+<p class="alemania">Tiene más de 2 milenios de historia. <em>Berlín</em>, su capital, cuenta con sitios de arte y vida nocturna, la Puerta de <strong>Brandeburgo</strong> y muchos sitios relacionados con <strong><em>la Segunda Guerra Mundial</em></strong>. Múnich es conocida por el Oktoberfest y los salones de la cerveza, incluido el Hofbräuhaus del siglo XVI. Fráncfort, con sus rascacielos, alberga el Banco Central Europeo.</p>
+<h2> ¿Porque vivir en Alemania?</h2>
+<ol> 
+    <li>Es rico en cultura </li>
+    <li> Tiene un buen clima </li>
+    <li> Buena gastronomia </li>
+    <img src="https://www.kasandbox.org/programming-images/food/fish_grilled-snapper.png">
+</ol>
+<h2> Personajes importantes de Alemania</h2>
+<ol>
+<li> Albert Einstein </li>
+<li>Hitler </li>
+<img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-daytime.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</ol>
+
+    </body>
+</html>
